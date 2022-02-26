@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FAKER IDLE instance 1"
+		},
+		{
+			"offsets": [
+				51,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FAKER RIGHT instance 1"
+		},
+		{
+			"offsets": [
+				-85,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FAKER DOWN instance 1"
+		},
+		{
+			"offsets": [
+				35,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FAKER UP instance 1"
+		},
+		{
+			"offsets": [
+				136,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FAKER LEFT instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Faker_EXE_Assets",
+	"position": [
+		20,
+		130
+	],
+	"healthicon": "exefake",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		36,
+		144
+	],
+	"camera_position": [
+		-130,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
