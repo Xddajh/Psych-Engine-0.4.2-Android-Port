@@ -1,0 +1,6 @@
+Value 1: how many times to spin 
+Value 2: how long it should take in seconds
+
+This event doesnt work on fleetway.
+This is purposeful as this event was for a gag anyway.
+That's a hint for you incase you haven't found the gag yet.
