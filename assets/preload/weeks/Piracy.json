@@ -1,0 +1,40 @@
+{
+	"storyName": "PERISH",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"piracy_temp",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"ILLEGAL_DOWNLOAD",
+			"icons-piracy",
+			[
+				0,
+				0,
+				193
+			]
+		],
+		[
+			"REGRET",
+			"icons-piracy",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "PIRACY"
+}
